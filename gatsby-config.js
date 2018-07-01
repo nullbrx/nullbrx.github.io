@@ -3,7 +3,7 @@ module.exports = {
     title: 'Nullbrx Blog',
     author: 'Brad Thompson',
     description: 'Thoughts, code and tacos...',
-    siteURL: 'https://nullbrx.github.io"
+    siteURL: 'https://nullbrx.github.io',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
