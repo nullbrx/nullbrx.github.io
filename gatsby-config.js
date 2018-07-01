@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Brad's Blog',
+    title: 'Nullbrx Blog',
     author: 'Brad Thompson',
     description: 'Thoughts, code and tacos...',
     siteUrl: 'https://nullbrx.github.io/gatsby-blog/',
