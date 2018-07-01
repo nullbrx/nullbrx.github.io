@@ -1,9 +1,3 @@
-# gatsby-starter-blog
-Gatsby starter for creating a blog
+Blog of @nullbrx, hosted on GitHub Pages. Powered by Gatsby and TravisCI. 
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-
-`gatsby new gatsby-blog https://github.com/gatsbyjs/gatsby-starter-blog`
-
-## Running in development
-`gatsby develop`
+[![Build Status](https://travis-ci.org/nullbrx/nullbrx.github.io.svg?branch=master)](https://travis-ci.org/nullbrx/nullbrx.github.io)
