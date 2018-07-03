@@ -5,7 +5,7 @@ cache:
 notifications:
   email:
     recipients:
-      - $NOTIF_EMAIL
+      - $BUILD_EMAIL
     on_success: always
     on_failure: always
 node_js:
