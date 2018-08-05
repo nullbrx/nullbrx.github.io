@@ -27,8 +27,8 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Thoughts, code, and tacos of <strong>Brad Thompson</strong>.{' '}
-          <a href="https://twitter.com/nullbrx">
+          Thoughts, code, and tacos of <strong>Brad</strong>.{' '}
+          <a href="https://twitter.com/thomsxn">
             Follow my journey on Twitter!
           </a>
         </p>
