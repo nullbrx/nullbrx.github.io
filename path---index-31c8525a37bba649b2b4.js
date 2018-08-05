@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{508:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Nullbrx Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Intro Terraform  is a popular infrastructure-as-code tool used to provision Cloud environments. While toosl lile Ansible and Puppet provide…",fields:{slug:"/terraform-thoughts/"},frontmatter:{date:"04 August, 2018",title:"Getting Started with Terraform"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-31c8525a37bba649b2b4.js.map

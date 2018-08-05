@@ -1,9 +1,5 @@
 {
   "assetsByChunkName": {
-    "path---my-second-post": [
-      "path---my-second-post-b3f300ea11f262b7bfef.js",
-      "path---my-second-post-b3f300ea11f262b7bfef.js.map"
-    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-32f9d65dbfa65606184d.js",
       "component---src-pages-index-js-32f9d65dbfa65606184d.js.map"
@@ -24,21 +20,17 @@
       "component---src-layouts-index-js-f0e7680123e9f2645115.js",
       "component---src-layouts-index-js-f0e7680123e9f2645115.js.map"
     ],
-    "path---hi-folks": [
-      "path---hi-folks-9e25b450fa77d8d40193.js",
-      "path---hi-folks-9e25b450fa77d8d40193.js.map"
-    ],
     "path---index": [
-      "path---index-2fa4491a1239b8673052.js",
-      "path---index-2fa4491a1239b8673052.js.map"
-    ],
-    "path---hello-world": [
-      "path---hello-world-5cc1b111f13cb2b3264a.js",
-      "path---hello-world-5cc1b111f13cb2b3264a.js.map"
+      "path---index-31c8525a37bba649b2b4.js",
+      "path---index-31c8525a37bba649b2b4.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "path---terraform-thoughts": [
+      "path---terraform-thoughts-68502159c3db9920ae67.js",
+      "path---terraform-thoughts-68502159c3db9920ae67.js.map"
     ],
     "commons": [
       "commons-6e82eaae3f56c620a9ec.js",
@@ -55,9 +47,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-3cb43ae810525bfbaf9b.js",
+      "app-2b8fb8c414c7e9a074e6.js",
       "build-js-styles.css",
-      "app-3cb43ae810525bfbaf9b.js.map",
+      "app-2b8fb8c414c7e9a074e6.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
