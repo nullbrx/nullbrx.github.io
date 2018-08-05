@@ -15,7 +15,7 @@ The true power of Terraform comes from writing modularized code. I highly sugges
 
 ## The Joys of Automation
 
-"Automation" occasionally [turns into a buzzword](https://xkcd.com/1319/), because it's not *always** a quick turnaround to solutions. I spent a week doing basic infrastructure (creating instances, standardizing environment naming schemes), and I still didn't have anything useful. However, the real investment showed when we wanted to re-create an instance of OS of every machine in the fleet, or renaming computers (maybe you want to call your computers chipotle.prod instead of qdoba.prod, I don't know.) It may be slow at first when creating modules initially, but it pays off when you need to do perform fleet-wide changes, or repetitive tasks.
+"Automation" occasionally [turns into a buzzword](https://xkcd.com/1319/), because it's not *always* a quick turnaround to solutions. I spent a week doing basic infrastructure (creating instances, standardizing environment naming schemes), and I still didn't have anything useful. However, the real investment showed when we wanted to re-create an instance of OS of every machine in the fleet, or renaming computers (maybe you want to call your computers chipotle.prod instead of qdoba.prod, I don't know.) It may be slow at first when creating modules initially, but it pays off when you need to do perform fleet-wide changes, or repetitive tasks.
 
 I'm excited to see what modules an features Terraform brings in upcoming versions.
 
