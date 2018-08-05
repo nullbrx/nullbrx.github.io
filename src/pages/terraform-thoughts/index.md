@@ -1,11 +1,11 @@
 ---
-title: Getting Started with Terraform
+title: Thoughts on Terraform
 date: "2018-08-04T23:46:37.121Z"
 ---
 
 # Intro
 
-[Terraform](https://www.terraform.io) is a popular infrastructure-as-code tool used to provision Cloud environments. While toosl lile Ansible and Puppet provide host-configuration, Terraform drastically reduces toil associated with manually provisoining machines and settings with providers.
+[Terraform](https://www.terraform.io) is a popular infrastructure-as-code tool used to provision Cloud environments. While toosl lile Ansible and Puppet provide host-configuration, Terraform drastically reduces toil associated with manually provisoining machines and settings with providers, like AWS, GCP, GitLab,and [many others](https://registry.terraform.io/).
 
 ## Getting Started
 
